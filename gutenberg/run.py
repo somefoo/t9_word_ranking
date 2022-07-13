@@ -3,6 +3,11 @@ import requests
 import random
 import time
 
+import sys
+
+csv.field_size_limit(sys.maxsize)
+
+
 def create_data_pair(a, b, delimeter=','):
     original = open(a)
     t9 = open(b)
