@@ -9,4 +9,4 @@ What is the idea?
 
 The ranking information is based on word frequencies as obtained from books. For example from the Gutenberg [project](https://www.gutenberg.org/).
 
-Can be with the Android application [TraditionalT9](https://github.com/Clam-/TraditionalT9). Using the ranked dictionaries in gutenberg/updated_files/*/ present a vast improvement over the default dictionary used by TraditionalT9!
+Can be with the Android application [TraditionalT9](https://github.com/Clam-/TraditionalT9). The ranked dictionaries in gutenberg/updated_files/*/ present a vast improvement over the default dictionary used by TraditionalT9!
